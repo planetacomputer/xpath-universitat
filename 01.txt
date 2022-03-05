@@ -1,2 +1,1 @@
 #1 Nombre de la Universidad
-/universidad/nombre
