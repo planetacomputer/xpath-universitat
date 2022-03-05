@@ -1,0 +1,1 @@
+#25 Nombre de los alumnos matriculados en carreras que no tienen subdirector

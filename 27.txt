@@ -1,0 +1,1 @@
+#27 Nombre de los alumnos ques estudian carreras cuyos planes son anteriores a 2002

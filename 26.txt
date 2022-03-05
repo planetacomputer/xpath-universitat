@@ -1,0 +1,1 @@
+#26 Nombre de las alumnos matriculados en asignaturas con 0 créditos prácticos y que estudien la carrera de I.T. Informática

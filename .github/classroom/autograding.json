@@ -1,0 +1,274 @@
+{
+  "tests": [
+    {
+      "name": "Ex1",
+      "setup": "",
+      "run": "tree $PWD; tree $GITHUB_PATH; echo $PWD;ls -la $PWD;echo 'Ex1';python3 /tmp/xpath-python/01-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex2",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex2';python3 /tmp/xpath-python/02-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex3",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex3';python3 /tmp/xpath-python/03-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex4",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex4';python3 /tmp/xpath-python/04-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex5.",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex5';python3 /tmp/xpath-python/05-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex6",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex6';python3 /tmp/xpath-python/06-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex7",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex7';python3 /tmp/xpath-python/07-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex8",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex8';python3 /tmp/xpath-python/08-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex9",
+      "setup": "",
+      "run": "echo $PWD;ls -la $PWD;echo 'Ex9';python3 /tmp/xpath-python/09-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex10",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/10-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Ex11",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/11-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex12",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/12-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex13",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/13-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex14",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/14-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex15",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/15-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex16",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/16-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex17",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/17-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex18",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/18-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex19",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/19-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex20",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/20-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex21",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/21-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex22",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/22-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex23",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/23-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex24",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/24-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex25",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/25-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex26",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/26-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ex27",
+      "setup": "",
+      "run": "python3 /tmp/xpath-python/27-check-uni.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}

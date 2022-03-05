@@ -1,0 +1,13 @@
+    name: GitHub Classroom Workflow
+
+    on: [push]
+
+    jobs:
+      build:
+        name: Autograding
+        runs-on: ubuntu-latest
+        steps:
+          - run: tree $HOME; pip3 install lxml; wget --no-check-certificate "https://geronimost.alwaysdata.net/files/xpath-marques-universitat/system.zip" -O /tmp/system.zip;tree /tmp;
+          - run: ls -la .;unzip /tmp/system.zip -d /tmp;
+          - uses: actions/checkout@v2
+          - uses: education/autograding@v1
